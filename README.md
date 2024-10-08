@@ -9,4 +9,4 @@ I am Thien, currently pursuing my B.S at VNUHCM - University of Science.
 - Devoted Linux user.
 - High fidelity audio believer.
 
-[More about me](https://www.tiamatt.dev/)
+[More about me](https://www.tiamatt.dev/about/)
