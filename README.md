@@ -4,7 +4,6 @@
 
 I am Thien, currently pursuing my B.S at VNUHCM - University of Science.
 
-- Stoicism practitioner.
 - Tech enthusiast.
 - Devoted Linux user.
 - High fidelity audio believer.
