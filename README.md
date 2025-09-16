@@ -10,6 +10,11 @@ I am Thien, currently pursuing my B.S at VNUHCM - University of Science.
 
 [Find me elsewhere](https://tiamatt-eta.vercel.app/)
 
+## Focus
+
+My current academic and project focus is on **Natural Language Processing (NLP)**.
+
+[#SLMs are the future](https://arxiv.org/pdf/2506.02153)
 
 ## Tech & Tools
 
