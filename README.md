@@ -8,7 +8,7 @@ I am Thien, currently pursuing my B.S at VNUHCM - University of Science.
 - Arguing that audio quality matters (it does).
 - Building side projects that solve problems I don't actually have.
 
-[Find me elsewhere](https://tiamatt-eta.vercel.app/)
+[Find me elsewhere](https://khuuthanhthien.github.io/)
 
 ## Focus
 
