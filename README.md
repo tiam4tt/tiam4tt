@@ -14,8 +14,6 @@ I am Thien, currently pursuing my B.S at VNUHCM - University of Science.
 
 My current academic and project focus is on **Natural Language Processing (NLP)**.
 
-[#SLMs are the future](https://arxiv.org/pdf/2506.02153)
-
 ## Tech & Tools
 
 <div align="center">
